@@ -1,6 +1,14 @@
 # Time-Series Crop Classification with Deep Learning
 
-This repository contains a Jupyter notebook demonstrating time series classification for crop identification using deep learning techniques. The dataset used in this demonstration is a subset of the MiniTimeMatch dataset.
+This repository contains a Jupyter notebook demonstrating time series classification for crop identification using deep learning techniques - MLP, LSTM and 1D-CNN . The dataset used in this demonstration is a subset of the MiniTimeMatch dataset.
+
+### Notebook Structure
+
+- Data exploration
+- EDA analysis
+- MLP implementation
+- LSTM implementation
+- 1D CNN implementation
 
 ## Dataset Information
 
