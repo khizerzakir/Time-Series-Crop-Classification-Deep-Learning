@@ -14,6 +14,7 @@ This repository contains a Jupyter notebook demonstrating time series classifica
 ## Dataset Information
 
 Each observation in the dataset consists of a time series of 62 observations taken across 10 spectral bands of Sentinel-2 for 19 different classes in France. Each observation corresponds to spectral measurements aggregated over a land parcel. The observations are labeled with the crop found in the parcel.
+
 ---
 ## Reference Papers
 
