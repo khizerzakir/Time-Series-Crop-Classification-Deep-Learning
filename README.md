@@ -2,7 +2,7 @@
 
 This repository contains a Jupyter notebook demonstrating time series classification for crop identification using deep learning techniques - MLP, LSTM and 1D-CNN . The dataset used in this demonstration is a subset of the MiniTimeMatch dataset.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/khizerzakir/Time-Series-Crop-Classification-Deep-Learning/blob/main/Deep_learning_final_KhizerZakir.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/khizerzakir/Time-Series-Crop-Classification-Deep-Learning/blob/main/Deep_learning_final_KhizerZakir.ipynb)
 
 ---
 ### Notebook Structure
